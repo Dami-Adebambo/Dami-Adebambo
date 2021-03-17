@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Dami-Adebambo
-- 👀 I’m interested in Vibin'
-- 🌱 I’m currently learning everything i can lmao
-- 💞️ I’m looking to collaborate on Games Lmfao
-- 📫 How to reach me gl with that
+Hi, I’m Damien
+I’m interested in Vibin'
+
 
 <!---
 Dami-Adebambo/Dami-Adebambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
