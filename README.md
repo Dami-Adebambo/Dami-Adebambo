@@ -1,5 +1,5 @@
-Hi, I’m Damien
-I’m interested in Vibin'
+- Hi, I’m Damien
+- I’m interested in Vibin'
 
 
 <!---
