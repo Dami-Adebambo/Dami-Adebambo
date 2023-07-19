@@ -1,12 +1,12 @@
+#Education
 Bsc Informations Security
 
-
 # Certificates In Progress
-Google Cybersecurity Professional\n
-CompTIA Security+\n
-AWS Certified Cloud Practitioner
-Certificate of Cloud Security Knowledge
-Microsoft Certified: Azure Security Engineer Associate
+Google Cybersecurity Professional<br />
+CompTIA Security+<br />
+AWS Certified Cloud Practitioner<br />
+Certificate of Cloud Security Knowledge<br />
+Microsoft Certified: Azure Security Engineer Associate<br />
 
 # Certificates
 <!---
