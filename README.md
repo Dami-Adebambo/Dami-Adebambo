@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Dami</h1>
-<h3 align="center">An excited cybersecurity analyst from London 😆</h3>
+<h3 align="center">An excited cybersecurity graduate 🎓 from London 😆</h3>
 <img align="right" alt="coding" width"400" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
 
 - 🌱 I’m currently learning **Active Directory and the joys of network administration and studying for the CompTIA Secuirty+**
